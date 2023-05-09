@@ -1,13 +1,14 @@
 Built-in apps listed below that are not prefixed with a  will be considered eligible for removal
 Prefix item with # to mark it for removal
 
+#Clipchamp.Clipchamp
 Microsoft.549981C3F5F10
 #Microsoft.BingNews
 #Microsoft.BingWeather
 Microsoft.DesktopAppInstaller
 #Microsoft.GamingApp
 #Microsoft.GetHelp
-#Microsoft.Getstarted
+Microsoft.Getstarted
 Microsoft.HEIFImageExtension
 Microsoft.MicrosoftEdge.Stable
 #Microsoft.MicrosoftOfficeHub
@@ -30,7 +31,7 @@ Microsoft.WindowsAlarms
 Microsoft.WindowsCalculator
 Microsoft.WindowsCamera
 #Microsoft.WindowsCommunicationsApps
-Microsoft.WindowsFeedbackHub
+#Microsoft.WindowsFeedbackHub
 #Microsoft.WindowsMaps
 Microsoft.WindowsNotepad
 Microsoft.WindowsSoundRecorder
