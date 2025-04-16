@@ -20,7 +20,7 @@ Microsoft.PowerAutomateDesktop
 Microsoft.ScreenSketch
 Microsoft.SecHealthUI
 Microsoft.StorePurchaseApp
-Microsoft.Todos
+#Microsoft.Todos
 Microsoft.UI.Xaml.2.4
 Microsoft.VCLibs.140.00
 Microsoft.VP9VideoExtensions
@@ -47,3 +47,9 @@ Microsoft.WindowsTerminal
 #Microsoft.ZuneVideo
 #MicrosoftTeams
 MicrosoftWindows.Client.WebExperience
+#MicrosoftCorporationII.QuickAssist
+#MicrosoftCorporationII.Family
+#AdvancedMicroDevicesInc-2.AMDRadeonSoftware
+#AdvancedMicroDevicesInc-2.AIM-TAMS
+#AD2F1837.HPSystemInformation
+#AD2F1837.myHP
